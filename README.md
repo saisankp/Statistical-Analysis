@@ -1,3 +1,2 @@
 # Statistical-Analysis-I
-Programming to improve my understanding of statistical analysis using R.
-
+My programming in R to improve my understanding of statistical analysis.
